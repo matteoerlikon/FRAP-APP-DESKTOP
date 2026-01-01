@@ -3,15 +3,9 @@
     "short_name": "FRAP",
     "start_url": "./index_pwa.html",
     "display": "standalone",
-    "background_color": "#FDFDFD",
+    "background_color": "#FFFFFF",
     "theme_color": "#1B3F94",
-    "orientation": "portrait",
     "icons": [
-        {
-            "src": "LOGO_FRAP.PNG",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
         {
             "src": "LOGO_FRAP.PNG",
             "sizes": "512x512",
